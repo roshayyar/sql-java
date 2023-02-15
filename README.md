@@ -1,4 +1,4 @@
-# MySQL-Projects
+# MySQL Projects
 
 ## Project 1: ScienceQTech Employee Performance Mapping
 
