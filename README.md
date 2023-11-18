@@ -1,2 +1,2 @@
-# MySQL Project
+# MySQL Project with Java GUI
 
