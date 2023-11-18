@@ -1,2 +1,2 @@
-# MySQL Projects
+# MySQL Project
 
